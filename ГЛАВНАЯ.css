@@ -1,0 +1,57 @@
+ .u-section-1 {
+  background-image: url("images/image.psd.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 773px;
+}
+
+.u-section-1 .u-text-1 {
+  font-family: try-clother1;
+  --animation-custom_in-translate_x: 0px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 0.3;
+  margin: 347px auto 60px 13px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 637px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 488px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 366px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 230px;
+  }
+}@font-face {
+  font-family: 'try-clother1';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/try-clother1.ttf);
+}@font-face {
+  font-family: 'Ermilov-bold';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/Ermilov-bold.otf);
+}@font-face {
+  font-family: 'try-clother-bold1';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/try-clother-bold1.ttf);
+}
