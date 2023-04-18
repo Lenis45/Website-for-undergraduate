@@ -1,11 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f17bcaea-2651-4985-9712-80954adaa57e" name="Changes" comment="" />
+    <list default="true" id="f17bcaea-2651-4985-9712-80954adaa57e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Ermilov-bold.otf" beforeDir="false" afterPath="$PROJECT_DIR$/src/client/src/assets/fonts/Ermilov-bold.otf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/try-clother-bold1.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/src/client/src/assets/fonts/try-clother-bold1.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/try-clother1.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/src/client/src/assets/fonts/try-clother1.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/0fd3416c.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/src/client/src/assets/images/0fd3416c.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/1eb6eb5b-2439-db98-8666-1746592b31ec.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/client/src/assets/images/1eb6eb5b-2439-db98-8666-1746592b31ec.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/3291598-e469411f.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/client/src/assets/images/3291598-e469411f.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/3291598.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/client/src/assets/images/3291598.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/68f64b9d.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/src/client/src/assets/images/68f64b9d.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/8ad73f3c.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/src/client/src/assets/images/8ad73f3c.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/image.psd.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/client/src/assets/images/image.psd.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/client/src/pages/Index/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/client/src/pages/Index/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/client/src/pages/Index/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/client/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/http/courseAPI.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/client/src/http/courseAPI.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/http/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/client/src/http/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/http/userAPI.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/client/src/http/userAPI.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Auth.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/client/src/pages/Auth.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/CoursePage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/client/src/pages/CoursePage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/routes.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/client/src/routes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ГЛАВНАЯ.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/client/src/pages/Main/Main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ГЛАВНАЯ.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/client/src/pages/Main/Main.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/КАТАЛОГ.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/client/src/pages/Catalog/Catalog.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/КАТАЛОГ.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/client/src/pages/Catalog/Catalog.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ЛИЧНЫЙ-КАБИНЕТ.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/client/src/pages/Personal account/Personal account.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ЛИЧНЫЙ-КАБИНЕТ.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/client/src/pages/Personal account/Personal account.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -21,13 +53,21 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "jdk.selected.JAVA_MODULE": "openjdk-19",
-    "last_opened_file_path": "C:/Users/User/source/repos/Website-for-undergraduate-courses-main/src"
+    "last_opened_file_path": "C:/Users/User/IdeaProjects/Website for undergraduate"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\IdeaProjects\Website-for-undergraduate-courses-main\src\server" />
       <recent name="C:\Users\User\source\repos\Website-for-undergraduate-courses-main\src" />
       <recent name="C:\Users\User\source\repos\Website-for-undergraduate-courses-main\src\pages" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\IdeaProjects\Website-for-undergraduate-courses-main\src\client\src" />
+      <recent name="C:\Users\User\IdeaProjects\Website-for-undergraduate-courses-main\src\client\src\pages\Personal account" />
+      <recent name="C:\Users\User\IdeaProjects\Website-for-undergraduate-courses-main\src\client\src\pages\index" />
+      <recent name="C:\Users\User\IdeaProjects\Website-for-undergraduate-courses-main\src\client\src\pages\Catalog" />
+      <recent name="C:\Users\User\IdeaProjects\Website-for-undergraduate-courses-main\src\client\src\pages\Main" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -40,5 +80,16 @@
       <updated>1680610118266</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
